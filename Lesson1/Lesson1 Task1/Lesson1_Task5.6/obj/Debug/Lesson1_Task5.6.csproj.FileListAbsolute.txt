@@ -1,0 +1,7 @@
+F:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task5.6\bin\Debug\Lesson1_Task5.6.exe.config
+F:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task5.6\bin\Debug\Lesson1_Task5.6.exe
+F:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task5.6\bin\Debug\Lesson1_Task5.6.pdb
+F:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task5.6\obj\Debug\Lesson1_Task5.6.csprojResolveAssemblyReference.cache
+F:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task5.6\obj\Debug\Lesson1_Task5.6.csproj.CoreCompileInputs.cache
+F:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task5.6\obj\Debug\Lesson1_Task5.6.exe
+F:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task5.6\obj\Debug\Lesson1_Task5.6.pdb
