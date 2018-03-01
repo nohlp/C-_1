@@ -1,0 +1,6 @@
+F:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task4\bin\Debug\Lesson1_Task4.exe.config
+F:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task4\bin\Debug\Lesson1_Task4.exe
+F:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task4\bin\Debug\Lesson1_Task4.pdb
+F:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task4\obj\Debug\Lesson1_Task4.csproj.CoreCompileInputs.cache
+F:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task4\obj\Debug\Lesson1_Task4.exe
+F:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task4\obj\Debug\Lesson1_Task4.pdb

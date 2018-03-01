@@ -27,22 +27,6 @@ namespace Lesson1_Task3
             y2 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Расстояние между точками {0:F2} ", calculate(x1, x2, y1, y2));
 
-
-            //Task 
-            int a = 10;
-            int b = 53;
-            int c;
-            Console.Write("\n\n" +a + " " + b);
-            c = a;
-            a = b;
-            b = c;
-            
-            Console.Write("\n" + a + " " + b);
-            a = a + b; //a=a<<b;
-            b = a - b; //b=b<<a;
-            a = a - b; //a=a<<b;
-            Console.Write("\n" + a + " " + b);
-
             Console.ReadKey();
         }
 

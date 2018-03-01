@@ -12,7 +12,8 @@ namespace Lesson1_Task5._6
 {
     class Program
     {
-        public int startPosition;
+
+
         static void Main(string[] args)
         {
             int consoleWidth = 80;
