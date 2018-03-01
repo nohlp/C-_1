@@ -12,9 +12,10 @@ namespace Lesson1_Task5._6
 {
     class Program
     {
+        public int startPosition;
         static void Main(string[] args)
         {
-            int consoleWidth = 40;
+            int consoleWidth = 80;
             int consoleHeight = 25;
 
             Console.SetWindowSize(consoleWidth, consoleHeight);
@@ -23,21 +24,23 @@ namespace Lesson1_Task5._6
 
             string drawData = "Азаров Андрей, Сыктывкар.";
 
-            PrintText(drawData,10,5);
+            Draw Draw = new Draw(consoleWidth,consoleHeight);
+            Draw.drawDigitBorder();
+            string drawDataLenght = "Длина строки "+drawData.Length.ToString()+" символа";
 
-            Pause();
+            Draw.PrintText(drawData, calculateCenter(consoleWidth, drawData.Length), (int)(consoleHeight/2));
+            Draw.PrintText(drawDataLenght, calculateCenter(consoleWidth, drawDataLenght.Length), (int)(consoleHeight / 2)+1);
+            control control = new control();
+            control.Pause();
+
         }
 
-        static void PrintText(string drawData,int x, int y)
+        static int calculateCenter(int consoleWidth,int stringLenght)
         {
-            Console.SetCursorPosition(x, y);
-            Console.Write(drawData);
-
+            int startPosition;
+            startPosition = (int)(consoleWidth / 2 - stringLenght / 2);
+            return startPosition > 0 ? startPosition : 0;
         }
 
-        static void Pause()
-        {
-            Console.ReadKey();
-        }
     }
 }
