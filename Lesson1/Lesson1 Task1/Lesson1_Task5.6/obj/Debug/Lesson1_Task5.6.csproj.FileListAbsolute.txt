@@ -5,3 +5,10 @@ F:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task5.6\obj\Debug\Lesson1_Task5.6.
 F:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task5.6\obj\Debug\Lesson1_Task5.6.csproj.CoreCompileInputs.cache
 F:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task5.6\obj\Debug\Lesson1_Task5.6.exe
 F:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task5.6\obj\Debug\Lesson1_Task5.6.pdb
+J:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task5.6\bin\Debug\Lesson1_Task5.6.exe.config
+J:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task5.6\bin\Debug\Lesson1_Task5.6.exe
+J:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task5.6\bin\Debug\Lesson1_Task5.6.pdb
+J:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task5.6\obj\Debug\Lesson1_Task5.6.csprojResolveAssemblyReference.cache
+J:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task5.6\obj\Debug\Lesson1_Task5.6.csproj.CoreCompileInputs.cache
+J:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task5.6\obj\Debug\Lesson1_Task5.6.exe
+J:\Courses\C#_1\Lesson1\Lesson1 Task1\Lesson1_Task5.6\obj\Debug\Lesson1_Task5.6.pdb

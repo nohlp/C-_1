@@ -12,8 +12,8 @@ namespace Lesson1_Task5._6
         }
         public Draw(int dimX, int DimY)
         {
-            this.windowWidth = dimX;
-            this.windowHeight = DimY;
+            windowWidth = dimX;
+            windowHeight = DimY;
         }
 
         public void PrintText(string drawData, int x, int y)
