@@ -1,0 +1,4 @@
+J:\Courses\C#_1\Lesson2\Lesson2_Task3\obj\Release\netcoreapp2.0\Lesson2_Task3.csprojResolveAssemblyReference.cache
+J:\Courses\C#_1\Lesson2\Lesson2_Task3\obj\Release\netcoreapp2.0\Lesson2_Task3.csproj.CoreCompileInputs.cache
+J:\Courses\C#_1\Lesson2\Lesson2_Task3\obj\Release\netcoreapp2.0\Lesson2_Task3.AssemblyInfoInputs.cache
+J:\Courses\C#_1\Lesson2\Lesson2_Task3\obj\Release\netcoreapp2.0\Lesson2_Task3.AssemblyInfo.cs
