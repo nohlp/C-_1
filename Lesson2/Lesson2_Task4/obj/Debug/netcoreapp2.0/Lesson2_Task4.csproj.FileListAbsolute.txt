@@ -9,3 +9,14 @@ J:\Courses\C#_1\Lesson2\Lesson2_Task4\obj\Debug\netcoreapp2.0\Lesson2_Task4.Asse
 J:\Courses\C#_1\Lesson2\Lesson2_Task4\obj\Debug\netcoreapp2.0\Lesson2_Task4.AssemblyInfo.cs
 J:\Courses\C#_1\Lesson2\Lesson2_Task4\obj\Debug\netcoreapp2.0\Lesson2_Task4.dll
 J:\Courses\C#_1\Lesson2\Lesson2_Task4\obj\Debug\netcoreapp2.0\Lesson2_Task4.pdb
+F:\Courses\C#_1\Lesson2\Lesson2_Task4\bin\Debug\netcoreapp2.0\Lesson2_Task4.deps.json
+F:\Courses\C#_1\Lesson2\Lesson2_Task4\bin\Debug\netcoreapp2.0\Lesson2_Task4.runtimeconfig.json
+F:\Courses\C#_1\Lesson2\Lesson2_Task4\bin\Debug\netcoreapp2.0\Lesson2_Task4.runtimeconfig.dev.json
+F:\Courses\C#_1\Lesson2\Lesson2_Task4\bin\Debug\netcoreapp2.0\Lesson2_Task4.dll
+F:\Courses\C#_1\Lesson2\Lesson2_Task4\bin\Debug\netcoreapp2.0\Lesson2_Task4.pdb
+F:\Courses\C#_1\Lesson2\Lesson2_Task4\obj\Debug\netcoreapp2.0\Lesson2_Task4.csprojResolveAssemblyReference.cache
+F:\Courses\C#_1\Lesson2\Lesson2_Task4\obj\Debug\netcoreapp2.0\Lesson2_Task4.csproj.CoreCompileInputs.cache
+F:\Courses\C#_1\Lesson2\Lesson2_Task4\obj\Debug\netcoreapp2.0\Lesson2_Task4.AssemblyInfoInputs.cache
+F:\Courses\C#_1\Lesson2\Lesson2_Task4\obj\Debug\netcoreapp2.0\Lesson2_Task4.AssemblyInfo.cs
+F:\Courses\C#_1\Lesson2\Lesson2_Task4\obj\Debug\netcoreapp2.0\Lesson2_Task4.dll
+F:\Courses\C#_1\Lesson2\Lesson2_Task4\obj\Debug\netcoreapp2.0\Lesson2_Task4.pdb
