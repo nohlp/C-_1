@@ -8,3 +8,4 @@ J:\Courses\C#_1\Lesson4\Lesson4_Task3\obj\Debug\netcoreapp2.0\Lesson4_Task3.Asse
 J:\Courses\C#_1\Lesson4\Lesson4_Task3\obj\Debug\netcoreapp2.0\Lesson4_Task3.AssemblyInfo.cs
 J:\Courses\C#_1\Lesson4\Lesson4_Task3\obj\Debug\netcoreapp2.0\Lesson4_Task3.dll
 J:\Courses\C#_1\Lesson4\Lesson4_Task3\obj\Debug\netcoreapp2.0\Lesson4_Task3.pdb
+J:\Courses\C#_1\Lesson4\Lesson4_Task3\obj\Debug\netcoreapp2.0\Lesson4_Task3.csprojResolveAssemblyReference.cache

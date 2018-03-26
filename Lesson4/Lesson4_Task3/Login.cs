@@ -31,6 +31,7 @@ namespace Lesson4_Task3
                 streamWriter.WriteLine("aaa1");
                 streamWriter.WriteLine("aaa2");
 
+                Console.WriteLine("Файл создан!!!login: aaa1 password: aaa2");
                 streamWriter.Close();
             }
             catch (Exception ex)
